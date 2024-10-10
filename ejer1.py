@@ -7,8 +7,8 @@ dkejd
 """
 
 nomb = input("Escribe tu nombre: ")
-edad = input("Escribe tu edad")
-saludo = "Holaa " + nomb + "de " + edad + " años"
+edad = input("Escribe tu edad: ")
+saludo = "Holaa " + nomb + " de " + edad + " años"
 print(saludo)
 
 
